@@ -9,7 +9,7 @@ Clone the repository by typing
 git clone https://github.com/CyrilHancock/Simon-Game.git
 ```
 And to play just opening **index.html** in any browser
-##Wanna Play Now
+## Wanna Play Now
 Visit "https://cyrilhancock.github.io/Simon-Game/"
 
 Preview
