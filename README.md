@@ -13,4 +13,4 @@ And to play just opening **index.html** in any browser
 Visit "https://cyrilhancock.github.io/Simon-Game/"
 
 Preview
-![This is an image](https://photos.app.goo.gl/3BP1dJX1zFTPWBDN6)
+![This is an image](/preview.png)
